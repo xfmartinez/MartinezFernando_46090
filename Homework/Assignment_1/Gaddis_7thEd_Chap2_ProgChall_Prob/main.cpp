@@ -25,9 +25,10 @@ int main(int argc, char** argv) {
     cout<<"Enter Gallons of Gas\n";
     cin>>GgU;
     cout<<"The Miles Per Gallon ="<<(MiD/GgU)<<endl;
+    cout<<"    ";
     //Exit Stage Right!!
     
 
     return 0;
 }
-
+//This is a new line
